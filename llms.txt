@@ -1,0 +1,32 @@
+# SemiRang (세미랑)
+
+> 세미랑(SemiRang)은 FPGA 베릴로그 합성, 타이밍 분석, KiCad PCB 검증을 설치 없이 브라우저에서 바로 돌려 보는 웹 설계 검증 플랫폼입니다. SemiRang is a web-based design verification platform for running FPGA Verilog synthesis, timing analysis, and KiCad PCB checks directly in the browser, with no local install.
+
+세미랑에서 할 수 있는 일
+
+- 브라우저에서 Verilog 코드를 쓰고 시뮬레이션을 돌려 파형과 시험 결과를 본다
+- 회로, 칩, 보드 화면에서 같은 순간의 신호를 함께 본다
+- KiCad 보드 파일을 올려 설계 규칙 검사(DRC)를 돌리고, 실제 구리선을 따라 연결을 확인한다
+
+대상은 전자공학과 반도체 전공 학생, 대학 실험 수업, FPGA와 하드웨어를 다루는 엔지니어다. 화면과 문서는 한국어가 기본이다.
+
+## 시작하기
+
+- [세미랑 홈](https://semirang.dev/): 서비스 소개. 지금은 소개 페이지만 공개되어 있고, 실습 화면은 준비가 끝나면 연결한다
+- [디스코드](https://discord.gg/SMtGAnDEDv): 질문과 소식
+
+## 소개 영상
+
+- [세미랑 소개 영상 (YouTube)](https://youtu.be/hHjIn6NH4Ds): 베릴로그 코드 작성부터 KiCad 보드의 구리선 연결 확인까지 브라우저에서 진행하는 흐름
+
+## 커뮤니티와 글
+
+- [기술 블로그](https://blog.naver.com/semirang-lab): 베릴로그, FPGA 타이밍, KiCad PCB 설계 정보글
+- [네이버 카페](https://cafe.naver.com/semirang): 베릴로그와 PCB 질문과 답, 에러 해결 기록
+- [유튜브](https://www.youtube.com/@semirang-lab)
+
+## Optional
+
+- [Instagram](https://www.instagram.com/semirang_lab)
+- [Threads](https://www.threads.com/@semirang_lab)
+- [X](https://x.com/semirang_lab)
